@@ -1,3 +1,5 @@
+crawlerintroduction
+
 ### requirements
 
 bs4, playwright, requests, (os)
@@ -145,4 +147,4 @@ with open(save_path, "wb") as f:
 
 #### 3、视频
 
-（to be continue）
+找到 .m3u8 or .mp4，下载即可。关键在找。
